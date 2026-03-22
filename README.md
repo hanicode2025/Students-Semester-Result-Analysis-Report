@@ -8,8 +8,8 @@ This project presents a visual analysis of student academic performance using se
 - Data Cleaning & Processing  
 - Data Visualization  
 
-## 📂 Project Structure
-- reports/ → PDF containing all visualizations and analysis  
+## 📂 Project link
+- [reports/ → PDF containing all visualizations and analysis ](https://public.tableau.com/app/profile/tadepalli.haneesh/viz/StudentsSemesterResultAnalysisReport/Dashboard1) 
 
 ## 📊 Key Insights
 - Clear upward trend in SGPA for many students, indicating academic improvement  
@@ -24,17 +24,8 @@ This project presents a visual analysis of student academic performance using se
 - CGPA vs Improvement comparison  
 - Class performance summary  
 
-## 🖼️ Preview
-(Add screenshot from your PDF here)
-
-## 🚀 How to Use
-1. Open the PDF file in the `reports/` folder  
-2. Review visualizations for insights on student performance  
-3. Use findings for academic or analytical reference  
-
 ## 🔗 Connect with Me
-- 💼 LinkedIn: https://www.linkedin.com/in/your-username  
-- 💻 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+- 💼 LinkedIn: [https://www.linkedin.com/in/your-username  ](https://www.linkedin.com/in/haneeshtadepalli/)
+- 📧 Email: haneeshtadepalli@gmail.com
 
 ---
